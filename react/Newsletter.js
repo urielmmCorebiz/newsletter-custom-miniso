@@ -108,8 +108,8 @@ const Newsletter = () => {
       headers: {
         "Content-Type": "application/json",
         "Accept": "application/vnd.vtex.ds.v10+json",
-        "x-vtex-api-appKey":"vtexappkey-minisocl-XFTCVJ",
-        "x-vtex-api-appToken":"OJOALAGRHXPCFYXTLWZFKMCGVFHFWLKAPZKRORKRNFXEJIOMGXVHGMOBHHEFTBVWNOMGOGFULHREPYWNQUZYPCUDKIKGMFYMJBQVVIYASBVYVJMILRPYCXGKTJVGVZHG",
+        "x-vtex-api-appKey":"",
+        "x-vtex-api-appToken":"",
       },
       body: JSON.stringify(subscribeClient),
     };
