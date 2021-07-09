@@ -3,11 +3,19 @@
   "version": "1.0.0",
   "description": "react app",
   "main": "HelloWorld.js",
-  "dependencies": {},
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "igor.silva@corebiz.com.br",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "css-loader": "^5.2.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0",
+    "sass-loader": "^12.1.0",
+    "style-loader": "^3.0.0",
+    "styled-components": "^5.2.1"
+  }
 }
