@@ -1,6 +1,6 @@
-# Corebiz Sandbox
+# Newsletter Custom Miniso
 
-## Use this app to make tests with vtexio. 
+## Use this app to make tests with vtexio and React JS 
 
 This app is allowed to use the following builders:
 
@@ -12,6 +12,3 @@ This app is allowed to use the following builders:
 - graphql
 - messages
 
-Download the repository [here](https://bitbucket.org/corebiz_ag/io-sandbox/downloads/) or create a branch to do the tests. The master branch is just a boilerplate, only commit to the master branch if it's a bug fix or improviment that can help everyone.
-
-It's is not necessary to use all the builders, if you only need node you can delete the others builders in your branch.
